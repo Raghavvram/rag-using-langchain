@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+chromadb
+accelerate
+langchain-google-genai
+fitz  # PyMuPDF
+
+# pip install -r requirements.txt
